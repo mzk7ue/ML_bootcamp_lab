@@ -360,3 +360,5 @@ print(test.success.value_counts())
 # We can use the data to address our problem. However, I am concerned about the size of the dataset, 
 # and whether or not the limited data will allow for a good prediction model.
 
+
+# %%
